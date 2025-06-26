@@ -37,6 +37,7 @@ To classify whether a shipment is likely to be **delayed or on time**, based on 
 - 🔁 **Automated retraining** with Databricks **scheduled Jobs**
 
   ![Scheduled Job](Artifacts/Job Scheduling/Databricks_Job_Scheduling.png)
+
 - ✅ Model evaluated with accuracy and F1-score, and tracked over time
 
 ---
